@@ -1,1 +1,2 @@
 Hi, this is second test file.
+When you want to represent objects as a single entity, then we prefer collections.
