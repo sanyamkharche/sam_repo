@@ -8,7 +8,7 @@ public class Gen<T> {
 	}
 	public void show()
 	{
-		System.out.println("The type of ob:"+ob.getClass().getName());
+		System.out.println("The type of object:"+ob.getClass().getName());
 	}
 	public T getOb()
 	{
