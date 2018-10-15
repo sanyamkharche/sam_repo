@@ -2,7 +2,7 @@ package com.snk.pack1;
 
 public class GenDemo {
 public static void main(String[] args) {
-	Gen<String> g1= new Gen<String>("Sanyam");
+	Gen<String> g1= new Gen<String>("Sam");
 	g1.show();
 	System.out.println(g1.getOb());
 	
